@@ -2,7 +2,7 @@
 A random quote generator put together for a FreeCodeCamp project using HTML, CSS, and Javascript.
 
 # Objective
-This project was to allow a user to click a button to show a new random quote with each click. If the user pressed the twitter button they would be prompted with tweeting the quote.
+This project was to allow a user to click a button and to show a new random quote with each click. If the user pressed the twitter button they would be prompted with tweeting the quote.
 
 # Final
 
